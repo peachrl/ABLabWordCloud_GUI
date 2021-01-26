@@ -18,7 +18,7 @@ ABLabWordCloud小程序为ABLab实验室2020年终报告合集提供了文字云
 
 ## 安装
 
-该项目使用Python编写，有图形化界面但无exe版本。请运行ABLabWordCloud_GUI.py使用。
+该项目使用Python编写，有图形化界面但无exe版本。请在windows系统中运行ABLabWordCloud_GUI.py使用。
 
 ## 使用说明
 

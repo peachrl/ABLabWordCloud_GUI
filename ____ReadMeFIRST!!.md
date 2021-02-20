@@ -1,6 +1,6 @@
 # ReadMe File
 
-[![standard-readme compliant](https://img.shields.io/badge/ABLabPickME-v2021.01.16-brightgreen.svg?style=flat-square)](https://github.com/peachRL/ABLabWordCloud_GUI)
+[![standard-readme compliant](https://img.shields.io/badge/ABLabWordCloud-v2021.01.20-brightgreen.svg?style=flat-square)](https://github.com/peachRL/ABLabWordCloud_GUI)
 
 - [ReadMe File](#readme-file)
   - [背景](#背景)
